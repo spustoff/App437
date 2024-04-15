@@ -11,6 +11,35 @@
 		787E0F8D2BC01D25003DC025 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787E0F8C2BC01D25003DC025 /* ContentView.swift */; };
 		787E0F8F2BC01D26003DC025 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 787E0F8E2BC01D26003DC025 /* Assets.xcassets */; };
 		787E0F932BC01D26003DC025 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 787E0F922BC01D26003DC025 /* Preview Assets.xcassets */; };
+		787E0FA42BC01E3B003DC025 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 787E0FA32BC01E3B003DC025 /* Launch Screen.storyboard */; };
+		787E0FA62BC01E4A003DC025 /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787E0FA52BC01E4A003DC025 /* LoadingView.swift */; };
+		787E0FA82BC01E50003DC025 /* R1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787E0FA72BC01E50003DC025 /* R1.swift */; };
+		787E0FAA2BC01E55003DC025 /* R2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787E0FA92BC01E55003DC025 /* R2.swift */; };
+		787E0FAC2BC01E5E003DC025 /* R3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787E0FAB2BC01E5E003DC025 /* R3.swift */; };
+		787E0FAE2BC01E65003DC025 /* U1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787E0FAD2BC01E65003DC025 /* U1.swift */; };
+		787E0FB02BC01E6B003DC025 /* Reviewas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787E0FAF2BC01E6B003DC025 /* Reviewas.swift */; };
+		787E0FB22BC01E71003DC025 /* Join.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787E0FB12BC01E71003DC025 /* Join.swift */; };
+		787E0FB42BC01E77003DC025 /* Not.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787E0FB32BC01E77003DC025 /* Not.swift */; };
+		787E0FB62BC02354003DC025 /* CoreDataStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787E0FB52BC02354003DC025 /* CoreDataStack.swift */; };
+		787E0FB82BC0235B003DC025 /* Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787E0FB72BC0235B003DC025 /* Array.swift */; };
+		787E0FBD2BC0236F003DC025 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787E0FBC2BC0236F003DC025 /* TabBar.swift */; };
+		787E0FC42BC023DC003DC025 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787E0FC32BC023DC003DC025 /* HomeView.swift */; };
+		787E0FC62BC023E4003DC025 /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787E0FC52BC023E4003DC025 /* HomeViewModel.swift */; };
+		787E0FC92BC03160003DC025 /* CurrenciesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787E0FC82BC03160003DC025 /* CurrenciesView.swift */; };
+		787E0FCC2BC032D3003DC025 /* ChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787E0FCB2BC032D3003DC025 /* ChartView.swift */; };
+		787E0FCE2BC03E96003DC025 /* HistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787E0FCD2BC03E96003DC025 /* HistoryView.swift */; };
+		787E0FD02BC04049003DC025 /* HistoryViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787E0FCF2BC04049003DC025 /* HistoryViewModel.swift */; };
+		787E0FD22BC05353003DC025 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787E0FD12BC05353003DC025 /* SettingsView.swift */; };
+		787E0FD42BC05C13003DC025 /* CalculatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787E0FD32BC05C13003DC025 /* CalculatorView.swift */; };
+		78E07A592BC135B2003273F1 /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78E07A582BC135B2003273F1 /* AddView.swift */; };
+		F987A8792BCD1876003DA12E /* CoreModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F987A8772BCD1876003DA12E /* CoreModel.xcdatamodeld */; };
+		F987A87B2BCD1890003DA12E /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = F987A87A2BCD1890003DA12E /* GoogleService-Info.plist */; };
+		F987A87F2BCD18B6003DA12E /* YandexMobileMetrica in Frameworks */ = {isa = PBXBuildFile; productRef = F987A87E2BCD18B6003DA12E /* YandexMobileMetrica */; };
+		F987A8842BCD18C7003DA12E /* OneSignalFramework in Frameworks */ = {isa = PBXBuildFile; productRef = F987A8832BCD18C7003DA12E /* OneSignalFramework */; };
+		F987A8872BCD18F4003DA12E /* FirebaseRemoteConfigSwift in Frameworks */ = {isa = PBXBuildFile; productRef = F987A8862BCD18F4003DA12E /* FirebaseRemoteConfigSwift */; };
+		F987A8892BCD192A003DA12E /* s1.swift in Sources */ = {isa = PBXBuildFile; fileRef = F987A8882BCD192A003DA12E /* s1.swift */; };
+		F987A88B2BCD192E003DA12E /* w1.swift in Sources */ = {isa = PBXBuildFile; fileRef = F987A88A2BCD192E003DA12E /* w1.swift */; };
+		F987A88D2BCD1931003DA12E /* d1.swift in Sources */ = {isa = PBXBuildFile; fileRef = F987A88C2BCD1931003DA12E /* d1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +49,33 @@
 		787E0F8E2BC01D26003DC025 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		787E0F902BC01D26003DC025 /* App437.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = App437.entitlements; sourceTree = "<group>"; };
 		787E0F922BC01D26003DC025 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		787E0FA32BC01E3B003DC025 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		787E0FA52BC01E4A003DC025 /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
+		787E0FA72BC01E50003DC025 /* R1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = R1.swift; sourceTree = "<group>"; };
+		787E0FA92BC01E55003DC025 /* R2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = R2.swift; sourceTree = "<group>"; };
+		787E0FAB2BC01E5E003DC025 /* R3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = R3.swift; sourceTree = "<group>"; };
+		787E0FAD2BC01E65003DC025 /* U1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = U1.swift; sourceTree = "<group>"; };
+		787E0FAF2BC01E6B003DC025 /* Reviewas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reviewas.swift; sourceTree = "<group>"; };
+		787E0FB12BC01E71003DC025 /* Join.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Join.swift; sourceTree = "<group>"; };
+		787E0FB32BC01E77003DC025 /* Not.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Not.swift; sourceTree = "<group>"; };
+		787E0FB52BC02354003DC025 /* CoreDataStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataStack.swift; sourceTree = "<group>"; };
+		787E0FB72BC0235B003DC025 /* Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Array.swift; sourceTree = "<group>"; };
+		787E0FBC2BC0236F003DC025 /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		787E0FC32BC023DC003DC025 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		787E0FC52BC023E4003DC025 /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
+		787E0FC82BC03160003DC025 /* CurrenciesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrenciesView.swift; sourceTree = "<group>"; };
+		787E0FCB2BC032D3003DC025 /* ChartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartView.swift; sourceTree = "<group>"; };
+		787E0FCD2BC03E96003DC025 /* HistoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryView.swift; sourceTree = "<group>"; };
+		787E0FCF2BC04049003DC025 /* HistoryViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryViewModel.swift; sourceTree = "<group>"; };
+		787E0FD12BC05353003DC025 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		787E0FD32BC05C13003DC025 /* CalculatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorView.swift; sourceTree = "<group>"; };
+		78E07A582BC135B2003273F1 /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
+		F987A8782BCD1876003DA12E /* CoreModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreModel.xcdatamodel; sourceTree = "<group>"; };
+		F987A87A2BCD1890003DA12E /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = SOURCE_ROOT; };
+		F987A87C2BCD1899003DA12E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		F987A8882BCD192A003DA12E /* s1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = s1.swift; sourceTree = "<group>"; };
+		F987A88A2BCD192E003DA12E /* w1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = w1.swift; sourceTree = "<group>"; };
+		F987A88C2BCD1931003DA12E /* d1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = d1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -27,6 +83,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F987A87F2BCD18B6003DA12E /* YandexMobileMetrica in Frameworks */,
+				F987A8872BCD18F4003DA12E /* FirebaseRemoteConfigSwift in Frameworks */,
+				F987A8842BCD18C7003DA12E /* OneSignalFramework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -36,6 +95,7 @@
 		787E0F7E2BC01D25003DC025 = {
 			isa = PBXGroup;
 			children = (
+				787E0F992BC01DEB003DC025 /* Project */,
 				787E0F892BC01D25003DC025 /* App437 */,
 				787E0F882BC01D25003DC025 /* Products */,
 			);
@@ -52,6 +112,8 @@
 		787E0F892BC01D25003DC025 /* App437 */ = {
 			isa = PBXGroup;
 			children = (
+				F987A87C2BCD1899003DA12E /* Info.plist */,
+				F987A87A2BCD1890003DA12E /* GoogleService-Info.plist */,
 				787E0F8A2BC01D25003DC025 /* App437App.swift */,
 				787E0F8C2BC01D25003DC025 /* ContentView.swift */,
 				787E0F8E2BC01D26003DC025 /* Assets.xcassets */,
@@ -67,6 +129,158 @@
 				787E0F922BC01D26003DC025 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		787E0F992BC01DEB003DC025 /* Project */ = {
+			isa = PBXGroup;
+			children = (
+				787E0F9D2BC01E0E003DC025 /* Views */,
+				787E0F9C2BC01E09003DC025 /* TabBar */,
+				787E0F9B2BC01E03003DC025 /* Extensions */,
+				787E0F9A2BC01DFA003DC025 /* StartScreens */,
+			);
+			path = Project;
+			sourceTree = "<group>";
+		};
+		787E0F9A2BC01DFA003DC025 /* StartScreens */ = {
+			isa = PBXGroup;
+			children = (
+				787E0FA22BC01E2D003DC025 /* Reviews */,
+				787E0FA12BC01E28003DC025 /* User */,
+				787E0FA02BC01E21003DC025 /* Launch */,
+				787E0F9E2BC01E14003DC025 /* LoadingView */,
+			);
+			path = StartScreens;
+			sourceTree = "<group>";
+		};
+		787E0F9B2BC01E03003DC025 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				787E0FB52BC02354003DC025 /* CoreDataStack.swift */,
+				787E0FB72BC0235B003DC025 /* Array.swift */,
+				F987A8772BCD1876003DA12E /* CoreModel.xcdatamodeld */,
+				F987A8882BCD192A003DA12E /* s1.swift */,
+				F987A88A2BCD192E003DA12E /* w1.swift */,
+				F987A88C2BCD1931003DA12E /* d1.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		787E0F9C2BC01E09003DC025 /* TabBar */ = {
+			isa = PBXGroup;
+			children = (
+				787E0FBC2BC0236F003DC025 /* TabBar.swift */,
+			);
+			path = TabBar;
+			sourceTree = "<group>";
+		};
+		787E0F9D2BC01E0E003DC025 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				787E0FC22BC023A4003DC025 /* Settings */,
+				787E0FC12BC02397003DC025 /* History */,
+				787E0FC02BC02391003DC025 /* Add */,
+				787E0FBF2BC0237F003DC025 /* Calculator */,
+				787E0FBE2BC02377003DC025 /* Home */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		787E0F9E2BC01E14003DC025 /* LoadingView */ = {
+			isa = PBXGroup;
+			children = (
+				787E0FA52BC01E4A003DC025 /* LoadingView.swift */,
+			);
+			path = LoadingView;
+			sourceTree = "<group>";
+		};
+		787E0FA02BC01E21003DC025 /* Launch */ = {
+			isa = PBXGroup;
+			children = (
+				787E0FA32BC01E3B003DC025 /* Launch Screen.storyboard */,
+			);
+			path = Launch;
+			sourceTree = "<group>";
+		};
+		787E0FA12BC01E28003DC025 /* User */ = {
+			isa = PBXGroup;
+			children = (
+				787E0FAD2BC01E65003DC025 /* U1.swift */,
+				787E0FAF2BC01E6B003DC025 /* Reviewas.swift */,
+				787E0FB12BC01E71003DC025 /* Join.swift */,
+				787E0FB32BC01E77003DC025 /* Not.swift */,
+			);
+			path = User;
+			sourceTree = "<group>";
+		};
+		787E0FA22BC01E2D003DC025 /* Reviews */ = {
+			isa = PBXGroup;
+			children = (
+				787E0FA72BC01E50003DC025 /* R1.swift */,
+				787E0FA92BC01E55003DC025 /* R2.swift */,
+				787E0FAB2BC01E5E003DC025 /* R3.swift */,
+			);
+			path = Reviews;
+			sourceTree = "<group>";
+		};
+		787E0FBE2BC02377003DC025 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				787E0FCA2BC032C8003DC025 /* Chart */,
+				787E0FC72BC03155003DC025 /* CurrenciesView */,
+				787E0FC32BC023DC003DC025 /* HomeView.swift */,
+				787E0FC52BC023E4003DC025 /* HomeViewModel.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		787E0FBF2BC0237F003DC025 /* Calculator */ = {
+			isa = PBXGroup;
+			children = (
+				787E0FD32BC05C13003DC025 /* CalculatorView.swift */,
+			);
+			path = Calculator;
+			sourceTree = "<group>";
+		};
+		787E0FC02BC02391003DC025 /* Add */ = {
+			isa = PBXGroup;
+			children = (
+				78E07A582BC135B2003273F1 /* AddView.swift */,
+			);
+			path = Add;
+			sourceTree = "<group>";
+		};
+		787E0FC12BC02397003DC025 /* History */ = {
+			isa = PBXGroup;
+			children = (
+				787E0FCD2BC03E96003DC025 /* HistoryView.swift */,
+				787E0FCF2BC04049003DC025 /* HistoryViewModel.swift */,
+			);
+			path = History;
+			sourceTree = "<group>";
+		};
+		787E0FC22BC023A4003DC025 /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				787E0FD12BC05353003DC025 /* SettingsView.swift */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+		787E0FC72BC03155003DC025 /* CurrenciesView */ = {
+			isa = PBXGroup;
+			children = (
+				787E0FC82BC03160003DC025 /* CurrenciesView.swift */,
+			);
+			path = CurrenciesView;
+			sourceTree = "<group>";
+		};
+		787E0FCA2BC032C8003DC025 /* Chart */ = {
+			isa = PBXGroup;
+			children = (
+				787E0FCB2BC032D3003DC025 /* ChartView.swift */,
+			);
+			path = Chart;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -85,6 +299,11 @@
 			dependencies = (
 			);
 			name = App437;
+			packageProductDependencies = (
+				F987A87E2BCD18B6003DA12E /* YandexMobileMetrica */,
+				F987A8832BCD18C7003DA12E /* OneSignalFramework */,
+				F987A8862BCD18F4003DA12E /* FirebaseRemoteConfigSwift */,
+			);
 			productName = App437;
 			productReference = 787E0F872BC01D25003DC025 /* App437.app */;
 			productType = "com.apple.product-type.application";
@@ -113,6 +332,11 @@
 				Base,
 			);
 			mainGroup = 787E0F7E2BC01D25003DC025;
+			packageReferences = (
+				F987A87D2BCD18B6003DA12E /* XCRemoteSwiftPackageReference "metrica-sdk-ios" */,
+				F987A8822BCD18C7003DA12E /* XCRemoteSwiftPackageReference "OneSignal-iOS-SDK" */,
+				F987A8852BCD18F4003DA12E /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
 			productRefGroup = 787E0F882BC01D25003DC025 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -127,6 +351,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				787E0FA42BC01E3B003DC025 /* Launch Screen.storyboard in Resources */,
+				F987A87B2BCD1890003DA12E /* GoogleService-Info.plist in Resources */,
 				787E0F932BC01D26003DC025 /* Preview Assets.xcassets in Resources */,
 				787E0F8F2BC01D26003DC025 /* Assets.xcassets in Resources */,
 			);
@@ -139,8 +365,32 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				787E0FD22BC05353003DC025 /* SettingsView.swift in Sources */,
 				787E0F8D2BC01D25003DC025 /* ContentView.swift in Sources */,
+				787E0FB42BC01E77003DC025 /* Not.swift in Sources */,
 				787E0F8B2BC01D25003DC025 /* App437App.swift in Sources */,
+				787E0FC62BC023E4003DC025 /* HomeViewModel.swift in Sources */,
+				787E0FC92BC03160003DC025 /* CurrenciesView.swift in Sources */,
+				787E0FCC2BC032D3003DC025 /* ChartView.swift in Sources */,
+				F987A8892BCD192A003DA12E /* s1.swift in Sources */,
+				F987A88D2BCD1931003DA12E /* d1.swift in Sources */,
+				787E0FC42BC023DC003DC025 /* HomeView.swift in Sources */,
+				787E0FAE2BC01E65003DC025 /* U1.swift in Sources */,
+				787E0FAC2BC01E5E003DC025 /* R3.swift in Sources */,
+				787E0FA82BC01E50003DC025 /* R1.swift in Sources */,
+				F987A88B2BCD192E003DA12E /* w1.swift in Sources */,
+				787E0FB62BC02354003DC025 /* CoreDataStack.swift in Sources */,
+				787E0FB22BC01E71003DC025 /* Join.swift in Sources */,
+				78E07A592BC135B2003273F1 /* AddView.swift in Sources */,
+				787E0FCE2BC03E96003DC025 /* HistoryView.swift in Sources */,
+				787E0FAA2BC01E55003DC025 /* R2.swift in Sources */,
+				F987A8792BCD1876003DA12E /* CoreModel.xcdatamodeld in Sources */,
+				787E0FB82BC0235B003DC025 /* Array.swift in Sources */,
+				787E0FD42BC05C13003DC025 /* CalculatorView.swift in Sources */,
+				787E0FD02BC04049003DC025 /* HistoryViewModel.swift in Sources */,
+				787E0FA62BC01E4A003DC025 /* LoadingView.swift in Sources */,
+				787E0FB02BC01E6B003DC025 /* Reviewas.swift in Sources */,
+				787E0FBD2BC0236F003DC025 /* TabBar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -188,7 +438,7 @@
 				GCC_C_LANGUAGE_STANDARD = gnu17;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_OPTIMIZATION_LEVEL = fast;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
@@ -248,6 +498,7 @@
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu17;
 				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = fast;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
@@ -272,17 +523,20 @@
 				DEVELOPMENT_ASSET_PATHS = "\"App437/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = App437/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Harmony Plunge";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen.storyboard";
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.1;
@@ -290,10 +544,11 @@
 				PRODUCT_BUNDLE_IDENTIFIER = IOI.App437;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -308,17 +563,20 @@
 				DEVELOPMENT_ASSET_PATHS = "\"App437/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = App437/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Harmony Plunge";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen.storyboard";
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.1;
@@ -326,10 +584,11 @@
 				PRODUCT_BUNDLE_IDENTIFIER = IOI.App437;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -355,6 +614,65 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		F987A87D2BCD18B6003DA12E /* XCRemoteSwiftPackageReference "metrica-sdk-ios" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/yandexmobile/metrica-sdk-ios";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 4.5.2;
+			};
+		};
+		F987A8822BCD18C7003DA12E /* XCRemoteSwiftPackageReference "OneSignal-iOS-SDK" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/OneSignal/OneSignal-iOS-SDK.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.1.4;
+			};
+		};
+		F987A8852BCD18F4003DA12E /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 10.24.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		F987A87E2BCD18B6003DA12E /* YandexMobileMetrica */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = F987A87D2BCD18B6003DA12E /* XCRemoteSwiftPackageReference "metrica-sdk-ios" */;
+			productName = YandexMobileMetrica;
+		};
+		F987A8832BCD18C7003DA12E /* OneSignalFramework */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = F987A8822BCD18C7003DA12E /* XCRemoteSwiftPackageReference "OneSignal-iOS-SDK" */;
+			productName = OneSignalFramework;
+		};
+		F987A8862BCD18F4003DA12E /* FirebaseRemoteConfigSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = F987A8852BCD18F4003DA12E /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseRemoteConfigSwift;
+		};
+/* End XCSwiftPackageProductDependency section */
+
+/* Begin XCVersionGroup section */
+		F987A8772BCD1876003DA12E /* CoreModel.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				F987A8782BCD1876003DA12E /* CoreModel.xcdatamodel */,
+			);
+			currentVersion = F987A8782BCD1876003DA12E /* CoreModel.xcdatamodel */;
+			name = CoreModel.xcdatamodeld;
+			path = /Users/slava/Desktop/App437/Project/Extensions/CoreModel.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 787E0F7F2BC01D25003DC025 /* Project object */;
 }
