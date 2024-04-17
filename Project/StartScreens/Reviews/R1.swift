@@ -12,7 +12,7 @@ struct R1: View {
 
         ZStack {
             
-            Color.white
+            Color("bg3")
                 .ignoresSafeArea()
             
             VStack {
